@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Your Resource Pack Name",
+        "description": "Your pack description",
+        "uuid": "your-resource-pack-uuid",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "your-module-uuid",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+        "product_type": "addon",
+        "authors": ["Your Name"],//It's not important so you can skip it.
+        "license": "All Rights Reserved"//It's not important so you can skip it.
+    }
+}
