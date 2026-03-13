@@ -6,10 +6,10 @@ If you've ever installed an addon in Minecraft Bedrock and suddenly noticed achi
 
 Minecraft disables achievements when it detects something that could give an unfair advantage or modify the game in a way that isn't "vanilla." The most common triggers are:
 
-· Missing the "addon flag" in the pack's manifest – without "product_type": "addon", Minecraft assumes the pack might be a cheat world.
-· Experimental features are enabled (like Holiday Creator Features, Beta APIs, etc.).
-· Cheats are turned on in the world settings (either manually or via command blocks).
-· The world was created as a template with locked game rules.
+- Missing the "addon flag" in the pack's manifest – without "product_type": "addon", Minecraft assumes the pack might be a cheat world.
+- Experimental features are enabled (like Holiday Creator Features, Beta APIs, etc.).
+- Cheats are turned on in the world settings (either manually or via command blocks).
+- The world was created as a template with locked game rules.
 
 🛠️ How to Make an Addon Achievement-Friendly
 
