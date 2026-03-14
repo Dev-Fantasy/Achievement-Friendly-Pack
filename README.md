@@ -63,7 +63,3 @@ Now you can enjoy custom addons without losing your achievements. Share this gui
 Main contributor: **NeoPhinix**
 
 Revised by: **VENLARK**
-
-
-
-Happy crafting!
